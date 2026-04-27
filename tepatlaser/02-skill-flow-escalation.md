@@ -72,7 +72,7 @@ Jika ukuran belum jelas:
 Contoh:
 `Ukurannya berapa Kak?`
 
-Jika customer jawab “sesuai gambar”:
+Jika customer jawab "sesuai gambar":
 - isi `size` = `"Sesuai gambar"`
 
 Jika customer tidak tahu:
@@ -87,6 +87,8 @@ Contoh:
 
 Jika file/gambar sudah ada:
 - set `has_file = true`
+- set `lead_status = "hot"`
+- set `trigger_conversion = true`
 - eskalasi ke admin
 
 ## Returning customer
@@ -110,6 +112,10 @@ dan salah satu kondisi berikut terpenuhi:
 - customer bingung menjawab detail teknis,
 - customer meminta detail pesanan lama yang tidak tersedia,
 - customer perlu penawaran detail dari admin.
+
+**Catatan lead scoring saat eskalasi:**
+- Jika eskalasi karena customer punya file / minta quotation → `lead_status = "hot"`, `trigger_conversion = true`.
+- Jika eskalasi karena bingung teknis → `lead_status = "warm"`, `trigger_conversion = false`.
 
 ## Untuk returning customer
 Jika nama dan lokasi sudah ada di profile:
@@ -136,6 +142,7 @@ Contoh:
 Begitu file terdeteksi:
 - jangan lanjut Q&A panjang,
 - tandai `has_file = true`,
+- set `lead_status = "hot"`, `trigger_conversion = true`,
 - kirim respon singkat,
 - eskalasi ke admin.
 
@@ -151,6 +158,10 @@ Contoh:
   "material": "",
   "thickness": "",
   "size": "Sesuai file",
-  "has_file": true
+  "has_file": true,
+  "lead_status": "hot",
+  "gclid": null,
+  "trigger_conversion": true,
+  "reason": "Customer kirim file, siap untuk quotation"
 }
 ```
