@@ -1,0 +1,74 @@
+[
+  {
+    "varian": "Stromchaser",
+    "tipe": "Extraît de Parfum, 30 ml",
+    "deskripsi": "Aroma yang lahir dari kekacauan, dibuat untuk memegang kendali. Dibuka dengan aroma teh yang segar, grapefruit, dan bergamot; pada bagian tengah memadukan balsam cemara dengan rempah-rempah seperti kapulaga dan pala. Akhirannya terasa musky dan powdery dengan sentuhan cedar dan iris.",
+    "notes": "Top: Teh, grapefruit, bergamot, neroli, petitgrain, lavender, ketumbar, galbanum. Middle: Balsam cemara, kayu guaiac, lada, pala, yuzu, delima, rosewood, kapulaga. Base: Musk, cedar, iris, oakmoss, cendana, peony, teratai.",
+    "gender": "Pria",
+    "cocok_untuk": "Road trip, acara mewah/glamor, berkemah, rapat bisnis."
+  },
+  {
+    "varian": "Poetic Suede",
+    "type": "Extraît de Parfum, 30 ml",
+    "deskripsi": "Kekuatan lembut yang dibalut dalam bayangan beludru. Dimulai dengan sentuhan tajam blackcurrant dan kulit; mekar menjadi aroma mawar may dan freesia dengan amber hangat serta aroma kulit. Basisnya bertahan lama dengan paduan vanilla, patchouli, dan jejak kayu.",
+    "notes": "Top: Kulit (Leather), bergamot, lavandin, kapulaga, blackcurrant. Middle: Kayu kering, aroma kulit, mawar may, freesia. Base: Kayu cedar, amber, patchouli, vanilla, ambroxan.",
+    "gender": "Wanita",
+    "cocok_untuk": "Networking, berbelanja, kencan makan malam."
+  },
+  {
+    "varian": "Happiness",
+    "type": "Extraît de Parfum, 30 ml",
+    "deskripsi": "Surga tropis dalam sebuah botol. Mangga yang berair bertemu dengan kelapa dan pina colada menghasilkan aroma yang bersih dan manis.",
+    "notes": "Top: Kelapa, lavender, jeruk, blackcurrant, pina colada, mangga. Middle: Melati, patchouli, peony, mawar, tonka bean, tulip, persik, nanas. Base: Almond, daun mint, musk, neroli, vanilla, bunga putih.",
+    "gender": "Wanita",
+    "cocok_untuk": "Festival, acara musik, pesta musim panas, brunch."
+  },
+  {
+    "varian": "Magic of Nature",
+    "type": "Extraît de Parfum, 30 ml",
+    "deskripsi": "Menangkap dualitas alam liar—cerah dan menyegarkan pada awalnya, lalu terasa hangat dan membumi.",
+    "notes": "Top: Bergamot, grapefruit, mandarin. Middle: Rhubarb, bunga jeruk, geranium. Base: Teh hitam Cina, musk, kayu cedar, kayu guaiac.",
+    "gender": "Pria",
+    "cocok_untuk": "Rapat, bepergian (traveling), pameran seni."
+  },
+  {
+    "varian": "Amethyst",
+    "type": "Extraît de Parfum, 30 ml",
+    "deskripsi": "Pesona floral yang memikat hati. Pembukaan hijau yang cerah mengarah ke aroma iris dan mawar Bulgaria, dengan heliotrope dan nada kayu sebagai basisnya.",
+    "notes": "Top: Nada hijau (Green notes), grapefruit merah muda, ambroxan. Middle: Iris, mawar Bulgaria. Base: Heliotrope, nada kayu.",
+    "gender": "Wanita",
+    "cocok_untuk": "Kuliah, yoga, membaca, acara santai."
+  },
+  {
+    "varian": "Amber Voguer",
+    "type": "Extraît de Parfum, 30 ml",
+    "deskripsi": "Esensi segar alam dalam setiap tarikan napas. Top notes lavender dan jeruk mengarah ke aroma bunga di tengah, dan basis vanilla-musk yang creamy.",
+    "notes": "Top: Lavender, jeruk mandarin, blackcurrant, petitgrain. Middle: Lavender, bunga jeruk, melati. Base: Vanilla Madagaskar, musk, cedar, ambergris.",
+    "gender": "Unisex",
+    "cocok_untuk": "Bekerja, perayaan, pesta, pemotretan."
+  },
+  {
+    "varian": "Ombre",
+    "type": "Extraît de Parfum, 30 ml",
+    "deskripsi": "Perjalanan melintasi bayangan kayu-kayu agung. Dibuka dengan geranium, oud, mawar, dan saffron; bagian tengahnya menambahkan sentuhan kulit dan lily of the valley.",
+    "notes": "Top: Geranium, oud, mawar, lada merah muda, pir, saffron, ambroxan. Middle: Melati, aroma kulit, lily of the valley, mawar, amber kering. Base: Cendana putih, patchouli, rempah-rempah, kayu oud, musk.",
+    "gender": "Unisex",
+    "cocok_untuk": "Makan malam gala, acara fashion, business matching."
+  },
+  {
+    "varian": "Brotherhood Story",
+    "type": "Extraît de Parfum, 30 ml",
+    "deskripsi": "Merasakan esensi kayu abadi. Jeruk cerah dan elemi mengarah ke kayu cedar dan patchouli di atas basis amber-musk.",
+    "notes": "Top: Jeruk, bergamot, elemi, ambroxan. Middle: Kayu cedar, patchouli, apel. Base: Jeruk, amberwood, musk.",
+    "gender": "Pria",
+    "cocok_untuk": "Bekerja, olahraga ekstrem, kumpul komunitas/supporter."
+  },
+  {
+    "varian": "Love Oud",
+    "type": "Extraît de Parfum, 30 ml",
+    "deskripsi": "Tempat bertemunya gairah dan esensi oud. Pembukaan buah dari bergamot, kapulaga, dan raspberry yang semakin dalam menjadi kayu cedar dan cendana.",
+    "notes": "Top: Bergamot, kapulaga, raspberry. Middle: Kayu cedar, kayu cendana, kayu oud. Base: Kemenyan (Incense), amber kering, musk, kayu cendana.",
+    "gender": "Unisex",
+    "cocok_untuk": "Makan malam, ibadah/doa, nongkrong santai."
+  }
+]
