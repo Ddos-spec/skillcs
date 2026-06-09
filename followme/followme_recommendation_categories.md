@@ -31,7 +31,7 @@ Gunakan knowledge ini untuk merekomendasikan parfum kepada customer berdasarkan 
 3. Amethyst (floral, soapy)
 
 ### Sweet
-1. Sunset Flavor (fruity, floral, gourmand)
+1. Sunset Falvor (fruity, floral, gourmand)
 2. Tonka Dusk (vanilla, cedarwood, gourmand)
 3. Poetic Suede (fruity, leather)
 
@@ -49,13 +49,13 @@ Gunakan knowledge ini untuk merekomendasikan parfum kepada customer berdasarkan 
 ### Gourmand
 1. Nutty Whisper
 2. Tonka Dusk
-3. Sunset Flavor
+3. Sunset Falvor
 
 ---
 
 ## 💡 Informasi Tambahan Penting (FYI)
 - Menggunakan **bahan baku alami**. Contohnya, seperti yang ada di website followme.id, kita memanfaatkan rempah-rempah alami.
 - **Ketahanan:** Tahan hingga 12 jam.
-- **Konsentrasi:** Seluruh varian parfum adalah jenis **Extrait**, *KECUALI* parfum **TOBACCO NOIRE** yang merupakan **EDP** (Eau de Parfum).
+- **Konsentrasi:** Seluruh varian parfum adalah jenis **Extrait**, *KECUALI* parfum **Tobacco Noir** yang merupakan **EDP** (Eau de Parfum).
 - **Produk Asli Buatan Lokal.**
 - **Kualitas:** Ingredients atau kualitas parfum kita adalah yang paling terbaik dengan harga yang terjangkau.

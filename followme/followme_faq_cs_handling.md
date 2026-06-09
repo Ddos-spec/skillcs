@@ -104,13 +104,13 @@ Beberapa varian manis memang punya karakter gourmand atau creamy kak, seperti nu
 
 Aroma oud memang cenderung lebih bold, hangat, dan berkarakter kak. Biasanya lebih cocok untuk malam hari atau acara tertentu. Untuk daily, kakak bisa pilih varian yang lebih fresh atau clean.
 
-#### 20. Varian Tobacco Noire apakah baunya seperti rokok?
+#### 20. Varian Tobacco Noir apakah baunya seperti rokok?
 
-Tobacco Noire punya karakter tembakau yang hangat dan beraroma khas kak, tapi bukan berarti seperti asap rokok langsung. Aromanya dipadukan dengan notes lain seperti clove, cardamom, vanilla, tonka bean, dan musk supaya tetap terasa elegan.
+Tobacco Noir punya karakter tembakau yang hangat dan beraroma khas kak, tapi bukan berarti seperti asap rokok langsung. Aromanya dipadukan dengan notes lain seperti clove, cardamom, vanilla, tonka bean, dan musk supaya tetap terasa elegan.
 
-#### 21. Kenapa Tobacco Noire terasa terlalu berat?
+#### 21. Kenapa Tobacco Noir terasa terlalu berat?
 
-Tobacco Noire memang punya karakter yang lebih warm, spicy, dan bold kak. Kalau kakak belum terbiasa dengan aroma tembakau atau rempah, bisa terasa cukup kuat di awal. Coba gunakan sedikit dulu, 1–2 semprot saja.
+Tobacco Noir memang punya karakter yang lebih warm, spicy, dan bold kak. Kalau kakak belum terbiasa dengan aroma tembakau atau rempah, bisa terasa cukup kuat di awal. Coba gunakan sedikit dulu, 1–2 semprot saja.
 
 #### 22. Kenapa parfum malam terasa terlalu berat untuk siang?
 
@@ -392,7 +392,7 @@ Baik kak. Kalau kakak mudah pusing, sebaiknya pilih aroma yang fresh, clean, sof
 
 #### 1. Kak, saya bingung pilih parfum Followme yang cocok.
 
-Boleh kak. Kalau kakak suka aroma fresh dan ringan bisa coba Aeros, Basil Breeze, Stromchaser, atau Magic Of Nature. Kalau suka yang manis dan creamy bisa coba Nutty Whispers, Happiness, Tonka Dusk, atau Sunset Flavor. Kalau mau yang lebih bold dan elegan, bisa coba Ombre, Love Oud, Glorious Moonlight, atau Tobacco Noire.
+Boleh kak. Kalau kakak suka aroma fresh dan ringan bisa coba Aeros, Basil Breeze, Stromchaser, atau Magic Of Nature. Kalau suka yang manis dan creamy bisa coba Nutty Whispers, Happiness, Tonka Dusk, atau Sunset Falvor. Kalau mau yang lebih bold dan elegan, bisa coba Ombre, Love Oud, Glorious Moonlight, atau Tobacco Noir.
 
 #### 2. Saya cowok, cocok pakai varian apa?
 
@@ -420,11 +420,11 @@ Kakak bisa coba Basil Breeze, Veldran, Amber Vougere, atau L'Ame De L'Ocean. Aro
 
 #### 8. Saya suka aroma manis, cocoknya yang mana?
 
-Kalau suka aroma manis, kakak bisa coba Nutty Whispers, Tonka Dusk, Happiness, Sunset Flavor, atau Senso Di Blossom. Nutty Whispers lebih creamy gourmand, Tonka Dusk lebih manis hangat, Happiness lebih fruity creamy, sedangkan Sunset Flavor dan Senso Di Blossom lebih manis elegan.
+Kalau suka aroma manis, kakak bisa coba Nutty Whispers, Tonka Dusk, Happiness, Sunset Falvor, atau Senso Di Blossom. Nutty Whispers lebih creamy gourmand, Tonka Dusk lebih manis hangat, Happiness lebih fruity creamy, sedangkan Sunset Falvor dan Senso Di Blossom lebih manis elegan.
 
 #### 9. Saya suka aroma manis tapi jangan terlalu childish.
 
-Kakak bisa coba Tonka Dusk, Poetic Suede, Love Oud, atau Sunset Flavor. Karakternya tetap manis, tapi lebih dewasa, hangat, dan elegan.
+Kakak bisa coba Tonka Dusk, Poetic Suede, Love Oud, atau Sunset Falvor. Karakternya tetap manis, tapi lebih dewasa, hangat, dan elegan.
 
 #### 10. Saya suka aroma manis yang creamy.
 
@@ -432,7 +432,7 @@ Kakak bisa coba Nutty Whispers atau Happiness. Nutty Whispers punya karakter gou
 
 #### 11. Saya suka aroma vanilla, cocoknya apa?
 
-Kakak bisa coba Nutty Whispers, Tonka Dusk, Poetic Suede, Amber Vougere, Happiness, Sunset Flavor, atau Tobacco Noire. Beberapa varian ini memiliki vanilla atau karakter manis creamy di bagian aromanya.
+Kakak bisa coba Nutty Whispers, Tonka Dusk, Poetic Suede, Amber Vougere, Happiness, Sunset Falvor, atau Tobacco Noir. Beberapa varian ini memiliki vanilla atau karakter manis creamy di bagian aromanya.
 
 #### 12. Saya suka aroma woody, rekomendasinya apa?
 
@@ -444,7 +444,7 @@ Kakak bisa coba Ombre, Love Oud, atau Glorious Moonlight. Ombre lebih bold denga
 
 #### 14. Saya suka aroma tobacco atau tembakau.
 
-Kakak bisa coba Tobacco Noire dari line Exclusive. Karakternya hangat, spicy, dan mewah dengan notes tobacco, clove, cardamom, vanilla, tonka bean, musk, dan cashmere.
+Kakak bisa coba Tobacco Noir dari line Exclusive. Karakternya hangat, spicy, dan mewah dengan notes tobacco, clove, cardamom, vanilla, tonka bean, musk, dan cashmere.
 
 #### 15. Saya mau parfum untuk daily use.
 
@@ -460,11 +460,11 @@ Untuk kuliah, kakak bisa coba Basil Breeze, Happiness, Amethyst, Veldran, Amber 
 
 #### 18. Saya mau parfum untuk malam hari.
 
-Untuk malam hari, kakak bisa coba Tonka Dusk, Ombre, Love Oud, Glorious Moonlight, Sunset Flavor, atau Tobacco Noire. Karakternya lebih hangat, bold, sensual, dan cocok untuk suasana malam.
+Untuk malam hari, kakak bisa coba Tonka Dusk, Ombre, Love Oud, Glorious Moonlight, Sunset Falvor, atau Tobacco Noir. Karakternya lebih hangat, bold, sensual, dan cocok untuk suasana malam.
 
 #### 19. Saya mau parfum untuk date.
 
-Untuk date, kakak bisa coba Tonka Dusk kalau ingin manis romantis, Poetic Suede kalau ingin elegan feminin, Love Oud kalau ingin warm dan intimate, atau Sunset Flavor kalau ingin manis elegan yang lebih premium.
+Untuk date, kakak bisa coba Tonka Dusk kalau ingin manis romantis, Poetic Suede kalau ingin elegan feminin, Love Oud kalau ingin warm dan intimate, atau Sunset Falvor kalau ingin manis elegan yang lebih premium.
 
 #### 20. Saya mau parfum untuk acara formal.
 
@@ -496,15 +496,15 @@ Kakak bisa coba Amethyst, Basil Breeze, Amber Vougere, Veldran, atau Magic Of Na
 
 #### 27. Saya mau parfum yang strong dan berkarakter.
 
-Kalau mau yang lebih strong, kakak bisa coba Ombre, Love Oud, Glorious Moonlight, Tobacco Noire, atau Sunset Flavor. Karakternya lebih bold, warm, dan cocok untuk kakak yang suka aroma menonjol.
+Kalau mau yang lebih strong, kakak bisa coba Ombre, Love Oud, Glorious Moonlight, Tobacco Noir, atau Sunset Falvor. Karakternya lebih bold, warm, dan cocok untuk kakak yang suka aroma menonjol.
 
 #### 28. Saya mau parfum yang cocok buat hadiah cowok.
 
-Untuk hadiah cowok, kakak bisa pilih Aeros, Stromchaser, Magic Of Nature, atau Brotherhood Story. Kalau ingin hadiah yang lebih premium dan bold, bisa coba Glorious Moonlight atau Tobacco Noire.
+Untuk hadiah cowok, kakak bisa pilih Aeros, Stromchaser, Magic Of Nature, atau Brotherhood Story. Kalau ingin hadiah yang lebih premium dan bold, bisa coba Glorious Moonlight atau Tobacco Noir.
 
 #### 29. Saya mau parfum yang cocok buat hadiah cewek.
 
-Untuk hadiah cewek, kakak bisa pilih Happiness, Amethyst, Poetic Suede, Nutty Whispers, atau Senso Di Blossom. Kalau ingin kesan lebih premium dan elegan, Senso Di Blossom atau Sunset Flavor bisa jadi pilihan.
+Untuk hadiah cewek, kakak bisa pilih Happiness, Amethyst, Poetic Suede, Nutty Whispers, atau Senso Di Blossom. Kalau ingin kesan lebih premium dan elegan, Senso Di Blossom atau Sunset Falvor bisa jadi pilihan.
 
 #### 30. Saya mau parfum couple atau yang bisa dipakai berdua.
 
@@ -528,7 +528,7 @@ Kakak bisa coba Basil Breeze. Karakternya citrus-herbal dari basil, bergamot, le
 
 #### 35. Saya suka aroma fruity yang ceria.
 
-Kakak bisa coba Happiness atau Sunset Flavor. Happiness lebih fruity creamy dan playful dengan mango, coconut, pina colada, peach, pineapple, dan vanilla. Sunset Flavor lebih elegan dengan nuansa pear, kumquat, mandarin, caramel, jasmine, vanilla, dan tonka bean.
+Kakak bisa coba Happiness atau Sunset Falvor. Happiness lebih fruity creamy dan playful dengan mango, coconut, pina colada, peach, pineapple, dan vanilla. Sunset Falvor lebih elegan dengan nuansa pear, kumquat, mandarin, caramel, jasmine, vanilla, dan tonka bean.
 
 #### 36. Saya suka aroma floral.
 
@@ -536,11 +536,11 @@ Kakak bisa coba Amethyst, Poetic Suede, Senso Di Blossom, atau Cartivage. Amethy
 
 #### 37. Saya suka aroma yang warm dan romantis.
 
-Kakak bisa coba Tonka Dusk, Love Oud, Sunset Flavor, atau Poetic Suede. Karakternya hangat, manis, elegan, dan cocok untuk momen malam atau suasana yang lebih intimate.
+Kakak bisa coba Tonka Dusk, Love Oud, Sunset Falvor, atau Poetic Suede. Karakternya hangat, manis, elegan, dan cocok untuk momen malam atau suasana yang lebih intimate.
 
 #### 38. Saya suka aroma yang mature/dewasa.
 
-Kakak bisa coba Magic Of Nature, Cartivage, Ombre, Love Oud, Glorious Moonlight, atau Tobacco Noire. Varian ini punya karakter yang lebih dalam, refined, dan tidak terlalu playful.
+Kakak bisa coba Magic Of Nature, Cartivage, Ombre, Love Oud, Glorious Moonlight, atau Tobacco Noir. Varian ini punya karakter yang lebih dalam, refined, dan tidak terlalu playful.
 
 #### 39. Saya suka aroma yang playful dan ceria.
 
@@ -548,7 +548,7 @@ Kakak bisa coba Happiness atau Nutty Whispers. Happiness lebih tropis, fruity, d
 
 #### 40. Saya suka aroma yang misterius.
 
-Kakak bisa coba Ombre, Glorious Moonlight, Love Oud, atau Tobacco Noire. Aromanya lebih deep, warm, bold, dan cocok untuk kakak yang ingin kesan berbeda.
+Kakak bisa coba Ombre, Glorious Moonlight, Love Oud, atau Tobacco Noir. Aromanya lebih deep, warm, bold, dan cocok untuk kakak yang ingin kesan berbeda.
 
 #### 41. Saya mau aroma yang cocok untuk siang hari.
 
@@ -556,7 +556,7 @@ Untuk siang hari, kakak bisa coba Aeros, Basil Breeze, Happiness, Stromchaser, M
 
 #### 42. Saya mau aroma yang cocok untuk malam hari.
 
-Untuk malam hari, kakak bisa coba Tonka Dusk, Ombre, Love Oud, Glorious Moonlight, Sunset Flavor, atau Tobacco Noire. Karakternya lebih hangat, sensual, bold, dan cocok untuk suasana malam.
+Untuk malam hari, kakak bisa coba Tonka Dusk, Ombre, Love Oud, Glorious Moonlight, Sunset Falvor, atau Tobacco Noir. Karakternya lebih hangat, sensual, bold, dan cocok untuk suasana malam.
 
 #### 43. Bedanya Followme Classic dan Exclusive apa?
 
@@ -576,11 +576,11 @@ Untuk karakter fresh, kakak bisa cek Aeros, Basil Breeze, Stromchaser, Magic Of 
 
 #### 47. Varian paling manis dari Followme apa?
 
-Kalau kakak suka manis, bisa cek Nutty Whispers, Tonka Dusk, Happiness, Sunset Flavor, atau Senso Di Blossom. Nutty Whispers lebih gourmand creamy, Tonka Dusk lebih vanilla tonka, Happiness lebih fruity creamy, Sunset Flavor lebih sweet warm, dan Senso Di Blossom lebih fresh floral sweet.
+Kalau kakak suka manis, bisa cek Nutty Whispers, Tonka Dusk, Happiness, Sunset Falvor, atau Senso Di Blossom. Nutty Whispers lebih gourmand creamy, Tonka Dusk lebih vanilla tonka, Happiness lebih fruity creamy, Sunset Falvor lebih sweet warm, dan Senso Di Blossom lebih fresh floral sweet.
 
 #### 48. Varian paling bold dari Followme apa?
 
-Untuk karakter bold, kakak bisa coba Ombre, Love Oud, Glorious Moonlight, atau Tobacco Noire. Varian ini punya karakter yang lebih kuat, warm, woody, oud, spicy, atau tobacco.
+Untuk karakter bold, kakak bisa coba Ombre, Love Oud, Glorious Moonlight, atau Tobacco Noir. Varian ini punya karakter yang lebih kuat, warm, woody, oud, spicy, atau tobacco.
 
 #### 49. Varian paling aman untuk dipakai harian apa?
 

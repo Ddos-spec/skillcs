@@ -66,22 +66,22 @@ Ukuran utama: 50 ml. Klaim longevity yang jelas pada materi produk: hingga 12 ja
 Produk utama:
 - Glorious Moonlight
 - L'Ame de l'Ocean
-- Sunset Flavor / Sunset Falvor
+- Sunset Falvor / Sunset Falvor
 - Senso di Blossom
 
 ### 4. Tobacco Series
 Produk utama:
-- Tobacco Noire
+- Tobacco Noir
 
-Catatan: Tobacco Noire kadang tampil sebagai bagian dari Tobacco Series, tetapi juga muncul dalam konteks Exclusive/Tobacco. Untuk rekomendasi customer, cukup sebut sebagai varian tobacco dari Followme.
+Catatan: Tobacco Noir kadang tampil sebagai bagian dari Tobacco Series, tetapi juga muncul dalam konteks Exclusive/Tobacco. Untuk rekomendasi customer, cukup sebut sebagai varian tobacco dari Followme.
 
 ## Nama Produk yang Perlu Dikunci
 Gunakan nama yang paling aman untuk customer:
 - Stormchaser, dengan alias internal Stromchaser.
 - Happiness Mango, dengan alias Happiness.
 - Amber Vougere, dengan alias Amber Voguer.
-- Sunset Flavor, dengan alias Sunset Falvor.
-- Tobacco Noire.
+- Sunset Falvor, dengan alias Sunset Falvor.
+- Tobacco Noir.
 
 Jangan membahas typo/naming conflict ke customer kecuali customer menanyakan perbedaan nama.
 
@@ -157,7 +157,7 @@ Contoh segment:
 - Sweet/gourmand: Happiness Mango, Nutty Whispers, Tonka Dusk
 - Woody/masculine: Brotherhood Story, Veldran, Ombre
 - Premium/night event: Glorious Moonlight, Ombre, Senso di Blossom
-- Tobacco character: Tobacco Noire
+- Tobacco character: Tobacco Noir
 
 ## Data Quality Notes
 - Harga, stok, promo, dan marketplace harus diverifikasi real-time sebelum dijawab.

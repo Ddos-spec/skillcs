@@ -6,7 +6,7 @@ Purpose: knowledge utama AI CS untuk notes, jenis parfum, karakter aroma, ketaha
 ## Aturan Utama
 
 - Pakai file ini sebagai sumber utama untuk *notes*, *jenis parfum*, *karakter aroma*, *ketahanan*, dan *occasion* varian.
-- Jangan mengarang harga dari file ini. Harga event ada di `followme_price_list_event_jagat_aroma.md`.
+- Jangan mengarang harga. Untuk saat ini, selalu arahkan atau berikan estimasi harga berdasarkan kisaran harga di marketplace resmi Followme (bukan harga offline/event).
 - Jangan mengklaim ketahanan pasti sama di semua orang. Ketahanan dipengaruhi kulit, cuaca, aktivitas, dan cara pemakaian.
 - Untuk klaim ketahanan, gunakan bahasa aman: `dirancang sampai ...`, `bisa berbeda di tiap orang`.
 - Jika customer komplain aroma tidak cocok, arahkan sebagai preferensi personal, bukan produk gagal.
@@ -14,10 +14,11 @@ Purpose: knowledge utama AI CS untuk notes, jenis parfum, karakter aroma, ketaha
 
 ## Normalisasi Nama dan Alias
 
-- `Sunset Falvor` → `Sunset Flavor`. Typo di dokumen/price list; gunakan Sunset Flavor saat menjawab customer.
-- `Glorius Moonlight` → `Glorious Moonlight`. Typo FAQ; gunakan Glorious Moonlight.
-- `Lame De Locean` / `L'ame De L'ocean` → `L'Ame de L'Ocean`.
-- `Tobacco Noir` / `Tobacco Noire` → gunakan `Tobacco Noir` sesuai Product Knowledge terbaru.
+- `Sunset Falvor` → Harus dieja **Sunset Falvor**, bukan Sunset Flavour atau Flavor.
+- `Glorious Moonlight` → Jangan tambahkan kata "Exquisite" di depan nama varian apapun.
+- `Lame De Locean` / `L'ame De L'ocean` → `L'Ame de L'Ocean` (Tanpa kata Exquisite).
+- `Tobacco Noir` → Harus ejaan **Tobacco Noir** (tanpa 's' atau 'e' di belakang).
+- `Basil Breeze` → Harus ejaan **Basil Breeze** (bukan Basil Brezez).
 - `Happiness Mango` → `Happiness`. Price list memakai Happiness Mango; Product Knowledge memakai Happiness.
 - `Amber Vougere` → pertahankan sesuai dokumen, jangan diganti menjadi Fougere kecuali klien konfirmasi.
 
@@ -129,7 +130,7 @@ Rekomendasi CS:
 - bisa diarahkan untuk kerja/kuliah/meeting.
 - bisa diarahkan untuk date/dinner/momen malam.
 
-### 9. Sunset Flavor
+### 9. Sunset Falvor
 
 - Jenis parfum: Extrait
 - Karakter aroma: Sweet, Fruity, Fresh
@@ -263,10 +264,10 @@ Basil Breeze, Amber Vougere, Stormchaser, Amethyst, Veldran, Brotherhood Story
 Aeros, Stormchaser, Veldran, L'Ame de L'Ocean
 
 ### Manis / creamy / gourmand
-Nutty Whispers, Tonka Dusk, Happiness, Sunset Flavor, Senso Di Blossom
+Nutty Whispers, Tonka Dusk, Happiness, Sunset Falvor, Senso Di Blossom
 
 ### Date / dinner / malam
-Tonka Dusk, Poetic Suede, Love Oud, Sunset Flavor, Glorious Moonlight, Tobacco Noir
+Tonka Dusk, Poetic Suede, Love Oud, Sunset Falvor, Glorious Moonlight, Tobacco Noir
 
 ### Formal / elegan / premium
 Cartivage, Poetic Suede, Glorious Moonlight, Senso Di Blossom, Love Oud
