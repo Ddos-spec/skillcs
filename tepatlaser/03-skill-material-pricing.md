@@ -1,89 +1,62 @@
-# Skill 3 — Material, Pricing Guide, dan Special Cases
+# Skill 03 — Material and Pricing Guide Tepat Laser
 
 ## Tujuan
-File ini dipakai hanya saat customer menanyakan:
-- bahan yang bisa dikerjakan,
-- kisaran harga,
-- apakah material tertentu bisa dicutting,
-- special case.
+Gunakan saat customer bertanya tentang material, ketebalan, kemampuan proses, kisaran harga, atau dasar perhitungan biaya.
 
-## Material yang didukung
-- Acrylic
-- MDF
-- Plywood
-- PVC
-- ACP
-- Plat besi hitam
-- Stainless
-- Galvanis
-- Besi hollow (khusus coak/lubang, bukan belah dua)
+## Aturan utama
+- Semua angka adalah patokan awal, bukan quotation final.
+- Harga final dipengaruhi material, ketebalan, ukuran, jumlah, panjang jalur potong, detail motif, finishing, assembly, instalasi, dan kondisi file.
+- Bedakan jasa cutting saja, cutting plus bahan, dan produk jadi.
+- Jangan menyatakan harga termasuk bahan jika belum jelas.
+- Jangan mengarang harga yang tidak tercantum.
+- Desain kompleks wajib diperiksa admin.
 
-## Special case — besi hollow
-Jika customer tanya besi hollow:
-- jelaskan bahwa hollow hanya bisa di-coak / dilubangi
-- tidak untuk dibelah dua panjang
+## Patokan internal
+### Acrylic — laser CO2
+Patokan jasa cutting sekitar Rp5.000 per menit mesin. Harga final harus melihat file, ketebalan, total jalur potong, jumlah objek, dan quantity.
 
-Contoh:
-`Besi hollow bisa Kak, tapi prosesnya coak atau lubang ya, bukan potong belah dua.`
+### MDF — CNC router
+Patokan jasa sekitar Rp185.000–Rp200.000 per m². Motif padat, detail kecil, bahan tebal, dan finishing dapat menaikkan harga.
 
-## Jika material belum pasti
-Arahkan customer menjelaskan fungsi dan tampilan yang diinginkan.
+### ACP — CNC router
+Patokan jasa sekitar Rp250.000 per m². Volume besar dapat dihitung ulang setelah file dan quantity jelas.
 
-Contoh:
-`Kalau belum yakin bahannya, jelaskan dulu dipakai di mana dan maunya tampilan seperti apa ya Kak. Nanti kami bantu arahkan.`
+### Metal — fiber laser
+Patokan awal jasa sekitar Rp350.000–Rp450.000 per m². Harga tergantung jenis metal, ketebalan, kompleksitas, dan volume.
 
-## Jika material tidak didukung
-Jangan mengarang.
-Arahkan ke admin.
+### Finishing duco
+Patokan bahan finishing sekitar Rp150.000 per m² dan tenaga sekitar Rp200.000 per m². Admin tetap perlu mengecek warna, kualitas finishing, dan kondisi permukaan.
 
-Contoh:
-`Untuk bahan itu belum kami handle langsung Kak. Kalau mau, admin kami bantu cek alternatifnya ya.`
+### Huruf timbul acrylic
+Patokan historis internal sekitar Rp9.000 per cm². Jangan gunakan sebagai harga final tanpa mengecek tinggi huruf, body, acrylic muka, lampu, jumlah huruf, pemasangan, dan lokasi.
 
-## Kisaran harga
-Harga hanya kisaran awal, bukan quotation final.
-Selalu beri catatan bahwa harga final tergantung gambar, kompleksitas, dan ketebalan.
+## Referensi harga bahan internal
+Harga supplier dapat berubah dan tidak boleh dijanjikan sebagai harga jual final.
+- MDF 12/18 mm: sekitar Rp450.000 per lembar 122 × 244 cm.
+- Acrylic 2 mm: sekitar Rp650.000 per lembar 120 × 240 cm.
+- Acrylic 3 mm hitam: sekitar Rp950.000 per lembar.
+- Acrylic 3 mm ukuran 122 × 122 cm: sekitar Rp460.000 per lembar.
+- GRC 15 mm: sekitar Rp395.000 per lembar.
 
-**Lead scoring saat tanya harga:**
-Jika customer tanya harga dengan menyebut material + ukuran + ketebalan yang spesifik → set `lead_status = "hot"`, `trigger_conversion = true`.
-Jika hanya tanya kisaran umum tanpa spesifik → tetap `lead_status = "warm"`, `trigger_conversion = false`.
+## Material umum
+Acrylic, MDF/HMR, plywood/triplek, PVC foam board, ACP, GRC board, Conwood, plat besi hitam, stainless, dan galvanis. Material lain harus dikonfirmasi admin.
 
-### Acrylic
-`Untuk acrylic, patokan awalnya sekitar Rp 5.000 per menit cutting Kak. Harga pastinya tetap perlu lihat file atau gambar.`
+## Special case
+- Besi hollow: hanya coak atau lubang sesuai kemampuan mesin; jangan menjanjikan belah panjang.
+- Material belum pasti: tanyakan fungsi, lokasi pemakaian, tampilan, dan budget.
+- Material tidak dikenal: jangan mengarang; eskalasi ke admin.
 
-### PVC
-- Tebal 3–5 mm: sekitar Rp 150.000 / m2
-- Tebal di atas 5 mm sampai 18 mm: sekitar Rp 250.000 / m2
-
-Contoh:
-`Untuk PVC 3–5 mm sekitar Rp 150.000 per meter persegi Kak. Kalau lebih tebal biasanya naik, dan tetap tergantung kompleksitas gambar.`
-
-### Plat besi hitam
-- Tebal 0,8–2 mm: sekitar Rp 250.000 / m2 untuk desain sederhana
-- Tebal 3 mm: sekitar Rp 350.000 / m2
-
-### Stainless
-- Tebal 1 mm: sekitar Rp 175.000 / m2
-- Tebal 2 mm: sekitar Rp 250.000 / m2
-
-### MDF
-- Tebal 3–5 mm: sekitar Rp 150.000–250.000 / m2 tergantung kompleksitas
-- Tebal di atas 5 mm: sekitar Rp 200.000–250.000 / m2
-
-### ACP
-- standar sekitar Rp 150.000 / m2
-- volume besar bisa turun sampai sekitar Rp 90.000 / m2
-
-## Aturan setelah memberi harga
-Setelah memberi kisaran harga, selalu arahkan ke file/gambar.
+## Cara menjawab harga
+1. Pastikan material dan jenis layanan.
+2. Tanyakan ketebalan, ukuran, jumlah, dan file.
+3. Berikan kisaran hanya bila patokan tersedia.
+4. Sebut sebagai patokan awal.
+5. Arahkan ke admin untuk quotation final.
 
 Contoh:
-`Kalau mau hitungan lebih akurat, gambarnya sudah ada Kak?`
+`Untuk MDF, patokan jasa CNC router sekitar Rp185–200 ribu per m² Kak. Harga final tetap perlu lihat ketebalan, motif, ukuran, jumlah, dan file desainnya.`
 
-Jika customer langsung konfirmasi mau lanjut atau minta quotation → set `lead_status = "hot"`, `trigger_conversion = true`, dan eskalasi ke admin.
-
-## Lama pengerjaan
-Jika customer tanya durasi:
-`Pengerjaan standar sekitar 1–2 hari kerja Kak. Kalau file sudah siap dan approved, biasanya bisa lebih cepat.`
-
-Lalu lanjutkan:
-`File-nya sudah ada atau masih perlu dibantu?`
+## Lead scoring
+- Tanya harga umum tanpa detail: warm.
+- Material, ketebalan, ukuran, dan jumlah cukup jelas: warm atau hot sesuai kesiapan.
+- Sudah ada file atau minta quotation final: hot, trigger_conversion = true, escalate = true.
